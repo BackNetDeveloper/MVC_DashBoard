@@ -1,0 +1,12 @@
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\bin\Debug\net5.0\Project.DataAccessLayer(DAL).deps.json
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\bin\Debug\net5.0\Project.DataAccessLayer(DAL).dll
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\bin\Debug\net5.0\Project.DataAccessLayer(DAL).pdb
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\obj\Debug\net5.0\Project.DataAccessLayer(DAL).csproj.AssemblyReference.cache
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\obj\Debug\net5.0\Project.DataAccessLayer(DAL).GeneratedMSBuildEditorConfig.editorconfig
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\obj\Debug\net5.0\Project.DataAccessLayer(DAL).AssemblyInfoInputs.cache
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\obj\Debug\net5.0\Project.DataAccessLayer(DAL).AssemblyInfo.cs
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\obj\Debug\net5.0\Project.DataAccessLayer(DAL).csproj.CoreCompileInputs.cache
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\obj\Debug\net5.0\Project.DataAccessLayer(DAL).dll
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\obj\Debug\net5.0\refint\Project.DataAccessLayer(DAL).dll
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\obj\Debug\net5.0\Project.DataAccessLayer(DAL).pdb
+D:\back-end asp.net track (Route)\05 ASP Core MVC\MVC_MainProject\Project.DataAccessLayer(DAL)\obj\Debug\net5.0\ref\Project.DataAccessLayer(DAL).dll

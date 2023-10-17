@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\back-end asp.net track (Route)\\05 ASP Core MVC\\MVC_MainProject\\Project.DataAccessLayer(DAL)\\Project.DataAccessLayer(DAL).csproj": {}
+  },
+  "projects": {
+    "D:\\back-end asp.net track (Route)\\05 ASP Core MVC\\MVC_MainProject\\Project.DataAccessLayer(DAL)\\Project.DataAccessLayer(DAL).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\back-end asp.net track (Route)\\05 ASP Core MVC\\MVC_MainProject\\Project.DataAccessLayer(DAL)\\Project.DataAccessLayer(DAL).csproj",
+        "projectName": "Project.DataAccessLayer(DAL)",
+        "projectPath": "D:\\back-end asp.net track (Route)\\05 ASP Core MVC\\MVC_MainProject\\Project.DataAccessLayer(DAL)\\Project.DataAccessLayer(DAL).csproj",
+        "packagesPath": "C:\\Users\\MM\\.nuget\\packages\\",
+        "outputPath": "D:\\back-end asp.net track (Route)\\05 ASP Core MVC\\MVC_MainProject\\Project.DataAccessLayer(DAL)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

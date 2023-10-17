@@ -1,0 +1,54 @@
+﻿@model RegisterViewModel
+@{
+    ViewData["Title"] = "SignUp";
+    Layout = "~/Views/Shared/_AuthenticationLayout.cshtml";
+}
+<br/>
+<div class="main-agileinfo">
+    <div class="agileits-top">
+       
+        <form asp-action="SignUp" asp-controller="Account" method="post">
+            @Html.ValidationSummary()
+            <div>
+                <input  type="email" asp-for="Email" placeholder="Email" required=""/>
+                <br/>
+                <span class="alert-danger" asp-validation-for="@Model.Email"></span>
+            </div>
+           <br/>
+            <div>
+                <input  type="password" asp-for="Password" placeholder="Password" required=""/>
+                <br />
+                <span class="alert-danger" asp-validation-for="@Model.Password"></span>
+            </div>
+            <br />
+            <div>
+                <input  type="password" asp-for="ConfirmPassword" placeholder="Confirm Password" required=""/>
+                <br />
+                <span class="alert-danger" asp-validation-for="@Model.ConfirmPassword"></span>
+            </div>
+            <br />
+                <div>
+                    <input type="checkbox" asp-for="@Model.IsAgree" required=""/>
+                    <span class="alert-info"> I Agree To The Terms And Conditions</span>
+                <br />
+                <span class="alert-danger" asp-validation-for="@Model.IsAgree"></span>
+                </div>
+            <input type="submit" value="SignUp">
+           
+        </form>
+        <div class="col-6">
+            <p>
+                If You Already have an Account? <a class="btn btn-warning" asp-action="SignIn">
+                    <i class="fas fa-sign-in"></i> Login Now !
+                </a>
+            </p>
+       </div>
+    </div>
+
+</div>
+@section Scripts
+    {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+     }
+

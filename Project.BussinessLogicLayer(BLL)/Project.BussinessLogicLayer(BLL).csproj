@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Project.BussinessLogicLayer_BLL_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Project.DataAccessLayer(DAL)\Project.DataAccessLayer(DAL).csproj" />
+  </ItemGroup>
+
+</Project>
